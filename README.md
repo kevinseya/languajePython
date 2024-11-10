@@ -18,3 +18,12 @@ Este proyecto crea una simple aplicación web en Flask que muestra un mensaje de
 To get started with this project, first clone the repository to your local machine:
 ```bash
 https://github.com/kevinseya/languajePython.git
+```
+### Run the image of Docker Hub
+
+You can pull and run it on any machine that has Docker installed.
+```bash
+docker push kevinseya/languaje-python-app:latest
+
+docker run -p 80:80 kevinseya/languaje-python-app:latest
+```
