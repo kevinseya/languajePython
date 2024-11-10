@@ -1,4 +1,4 @@
-# Flask Phyton Project
+# Flask Python Project
 
 This is a basic Flask project that serves as an example to get started with Flask, a web micro-framework for Python.
 ## Descripción
