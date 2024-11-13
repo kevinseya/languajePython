@@ -40,7 +40,7 @@ python app.py
 
 You can pull and run it on any machine that has Docker installed.
 ```bash
-docker push kevinseya/languaje-python-app:latest
+docker pull kevinseya/languaje-python-app:latest
 
 docker run -p 5000:5000 kevinseya/languaje-python-app:latest
 ```
